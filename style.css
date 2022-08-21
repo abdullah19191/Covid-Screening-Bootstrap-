@@ -1,0 +1,26 @@
+.navbar{
+   background-color:#EFF0F1;
+}
+.logo{
+    position: relative;
+    top: 42px;
+}
+.sect1{
+    background-color: #EFF0F1;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+.modal-dialog {
+    position: relative;
+    width: auto;
+    /* margin: .5rem; */
+    pointer-events: none;
+    height: 100%;
+    background-color: white;
+}
